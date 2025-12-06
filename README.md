@@ -1,4 +1,4 @@
-Sales Data Analysis (Python & Pandas)
+---Sales---Data---Analysis (Python & Pandas)
 
 Hi there! This is a data analysis project I built to practice my Python skills. I took 12 months of sales data (simulating a real electronics store) and used Pandas to figure out the best business strategies.
 
